@@ -94,7 +94,6 @@ int main() {
             cout << "Total nilai seluruh siswa: " << total << endl;
         } 
         else if (pilih == 6) {
-            // Tidak ada cout sesuai permintaan Yang Mulia
         } 
         else {
             cout << "Pilihan tidak valid.\n";
